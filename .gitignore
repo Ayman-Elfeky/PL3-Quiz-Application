@@ -1,0 +1,38 @@
+# .NET / F# Build Outputs
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio / VS Code / JetBrains Rider
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.ionide/
+
+# Test Results & Coverage
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Runtime App Data (Local JSON store)
+quiz_store.json
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
